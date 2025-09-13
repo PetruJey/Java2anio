@@ -13,7 +13,7 @@ public class Estudiante extends Persona{
         return "Estudiante{" +
                 "carrera='" + carrera + '\'' +
                 ", nombre='" + nombre + '\'' +
-                ", edad=" + edad +
+                ", edad=" + edad + "\n" +
                 '}';
     }
 }
